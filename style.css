@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;500;600;700;800;900&family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,700;0,900;1,800&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;500;600;700;800;900&family=Permanent+Marker&display=swap');
+
+.bg{
+    background-color:#eef0f4 ;
+    width: auto;
+    
+}
+nav img{
+    width: 94px;    
+}
+.navbar-nav .navitem a{
+    color: #081158;;
+}
+.frstbtn button{
+    padding: 10px;
+    display: block;
+    min-width: 200px;
+    margin-top: 0px;
+    color: #fff !important; 
+    border: 0px solid #000;
+    border-radius: 6px;
+    background-color: #081158;
+}
+.frstbtn i{
+    color: #fff !important;
+}
+.navbar-nav .cart i{
+    color: #081158;
+    font-size: 27px;
+    line-height: 1.6em;
+}
+.section .head{
+    background-color: #eef0f4;
+}
+
+.frstimg h1{
+    margin-bottom: -18px;
+    color: #8ea5a0;
+    font-family: 'Permanent Marker', sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 65px;    
+}
+.frstimg img{
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+}
+.content{
+    margin-top: 150px;
+}
+.content h6{
+    color: #081158;
+}
+
+.content h1{
+    color: #081158;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-family: Mulish, sans-serif;
+    font-size: 61px;
+    line-height: 1.1em;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+.content p{
+    color: #081158;
+    font-size: 20px;
+}
+
+.content .scndbtn button{
+    padding: 10px 0px;
+    display: block;
+    min-width: 200px;
+    margin-top: 0px;
+    color: #fff !important; 
+    border: 0px solid #000;
+    border-radius: 6px;
+    background-color: #081158;
+}
+.bg2{
+    
+}
+
+.bg2 img{
+    overflow-x: hidden;
+    margin-top: 200px;
+    width: 100%;
+    height: 200px;
+    transform: rotate(-1.5deg);
+    margin-bottom: -135px;
+    
+}
+.bg2 .colum{    
+    justify-content: center;
+    z-index: 1;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.bg2 .colum h4{
+    color: #fff;
+    font-size: 35px;
+    
+
+}
+.bg2 .colum label{
+    line-height: 20px;
+    color: #fff;
+    letter-spacing: 1px;
+    color: lightgray;
+}
+
+.section2{
+    margin-bottom: 100px;
+}
+.sctn2{
+    margin-top: 120px;
+    align-items: center;
+    
+}
+
+.sctn2 h1{
+    font-family: Mulish;
+    font-weight: 700;
+    color: #081158;
+    font-size: 65px;
+    text-align: center;
+}
+.sctn2  button{
+    padding: 10px 0px;
+    display: block;
+    min-width: 200px;
+    margin-top: 0px;
+    color: #fff !important; 
+    border: 0px solid #000;
+    border-radius: 6px;
+    background-color: #081158;
+}
+.sctn3 .features{
+    width: 400px;
+    text-align: center;
+}
+
+.sctn3 .feature-img {    
+    overflow: hidden;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 4px 18px 60px 3px rgba(0,0,0,0.24);
+    -webkit-box-shadow: 4px 18px 60px 3px rgba(0,0,0,0.24);
+    -moz-box-shadow: 4px 18px 60px 3px rgba(0,0,0,0.24);
+    
+}
+.sctn3 .feature-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;    
+    transition: transform .5s;
+   
+}   
+
+.sctn3 .feature-img img:hover{
+    transform: scale(1.1);
+
+}
+.sctn3 .features h4 {
+    font-family: Mulish;
+    color: #081158;
+    font-weight: 700;
+    width: 350px;
+}
+
+.sctn3 .features p{
+    text-align:center;
+    font-weight: 400;
+    color: #081158;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.homeworkouts{
+    background-color: #eef0f4;
+    margin-top: 100px;
+    width: 100%;
+    height: 100%;
+
+}
+.workouts{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.workouts h1{
+    font-family: Mulish;
+    color: #081158;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.workouts P{
+    color: #081158;
+    font-family: mulish;
+    font-size: 19px;
+}
+
+.workouts button{
+    padding: 10px 0px;
+    display: block;
+    min-width: 150px;
+    margin-top: 0px;
+    color: #fff !important; 
+    border: 0px solid #000;
+    border-radius: 6px;
+    background-color: #081158;
+}
+
+.cards {
+    display: inline-flex;
+    
+}
+.homeworkouts2{
+    background-color: #081158;
+    background-image: url(images/Lines.svg);
+    background-repeat: no-repeat;
+    background-size: 50vw;
+    display: flex;
+    background-position: 100% 0%;
+    width: auto;
+    height: 100%;
+
+}
+.homeworkouts2 img{
+    width: 700px;
+    float: right;
+}
+
+.homeworkouts2 .workouts2 h1{
+    padding-top: 50px;
+    font-family: Mulish;
+    color: #fff;
+    font-size: 80px;
+    font-weight: 700;
+    z-index: 1;
+}
+.homeworkouts2 .workouts2 P{
+    color: #fff;
+    font-family: mulish;
+    font-size: 19px;
+}
+
+.homeworkouts2 .workouts2 button{
+    padding: 15px;
+    display: block;
+    min-width: 150px;
+    margin-top: 0px;
+    color: #081158 !important; 
+    border: 0px solid #000;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+.homeworkouts2 .cards2{
+    display:inline-flex;
+}
